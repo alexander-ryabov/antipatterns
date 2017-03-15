@@ -1,4 +1,4 @@
-package testsuite.lazyclass.sample1;
+package suite.lazyclass.sample1;
 
 public class LazyClass {
 
